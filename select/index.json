@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "Taxi Driver",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-19T21:56:25.322903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Taxi Driver",
+      "artist": "Hanoi Rocks",
+      "has_synced": true,
+      "path": "select/01_Taxi_Driver_Hanoi_Rocks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mon Taxi Driver",
+      "artist": "Alizee",
+      "has_synced": true,
+      "path": "select/02_Mon_Taxi_Driver_Alizee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mon Taxi Driver",
+      "artist": "Alizée",
+      "has_synced": false,
+      "path": "select/03_Mon_Taxi_Driver_Alizée.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Taxi Driver",
+      "artist": "Colleen Green",
+      "has_synced": true,
+      "path": "select/04_Taxi_Driver_Colleen_Green.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Taxi Driver",
+      "artist": "Stephen Lynch",
+      "has_synced": true,
+      "path": "select/05_Taxi_Driver_Stephen_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Taxi Driver",
+      "artist": "The Longshot",
+      "has_synced": true,
+      "path": "select/06_Taxi_Driver_The_Longshot.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Taxi Driver",
+      "artist": "Hanoi Rocks",
+      "has_synced": false,
+      "path": "select/07_Taxi_Driver_Hanoi_Rocks.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bakamitai(Taxi Driver Edition)",
+      "artist": "桐生一馬(黒田崇矢)",
+      "has_synced": true,
+      "path": "select/08_Bakamitai(Taxi_Driver_Edition)_桐生一馬(黒田崇矢).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bakamitai - Taxi Driver Edition",
+      "artist": "桐生一馬(黒田崇矢)",
+      "has_synced": true,
+      "path": "select/09_Bakamitai_-_Taxi_Driver_Edition_桐生一馬(黒田崇矢).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Taxi Driver",
+      "artist": "Gym Class Heroes",
+      "has_synced": false,
+      "path": "select/10_Taxi_Driver_Gym_Class_Heroes.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Taxi Driver",
+      "artist": "Gym Class Heroes",
+      "has_synced": true,
+      "path": "select/11_Taxi_Driver_Gym_Class_Heroes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Taxi Driver",
+      "artist": "Steel Pulse",
+      "has_synced": true,
+      "path": "select/12_Taxi_Driver_Steel_Pulse.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Taxi Driver",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/13_Taxi_Driver_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Diary of a Taxi Driver",
+      "artist": "Bernard Herrmann",
+      "has_synced": false,
+      "path": "select/14_Diary_of_a_Taxi_Driver_Bernard_Herrmann.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Diary Of A Taxi Driver (Without Narration)",
+      "artist": "Bernard Herrmann",
+      "has_synced": false,
+      "path": "select/15_Diary_Of_A_Taxi_Driver_(Without_Narration)_Bernard_Herrmann.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Taxi Driver (Album Version)",
+      "artist": "Gym Class Heroes",
+      "has_synced": true,
+      "path": "select/16_Taxi_Driver_(Album_Version)_Gym_Class_Heroes.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "TAXI DRIVER",
+      "artist": "Rkomi",
+      "has_synced": true,
+      "path": "select/17_TAXI_DRIVER_Rkomi.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mr. Taxi (Steve Aoki Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/18_Mr._Taxi_(Steve_Aoki_Remix)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "MR.TAXI",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/19_MR.TAXI_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "MR.TAXI",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/20_MR.TAXI_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "MR.TAXI (Korean Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/21_MR.TAXI_(Korean_Ver.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Mr. Taxi",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/22_Mr._Taxi_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Mr.Taxi (Korean Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/23_Mr.Taxi_(Korean_Ver.)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Mr.Taxi (Steve Aoki Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/24_Mr.Taxi_(Steve_Aoki_Remix)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Big Yellow Taxi",
+      "artist": "Máire Brennan",
+      "has_synced": false,
+      "path": "select/25_Big_Yellow_Taxi_Máire_Brennan.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Heart Failed (In The Back Of A Taxi)",
+      "artist": "Saint Etienne",
+      "has_synced": true,
+      "path": "select/26_Heart_Failed_(In_The_Back_Of_A_Taxi)_Saint_Etienne.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Taxi Taxi",
+      "artist": "Blümchen",
+      "has_synced": false,
+      "path": "select/27_Taxi_Taxi_Blümchen.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Taxi to Nowhere",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/28_Taxi_to_Nowhere_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Taxi",
+      "artist": "Brennan Savage",
+      "has_synced": true,
+      "path": "select/29_Taxi_Brennan_Savage.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Beijing Taxi",
+      "artist": "Viagra Boys",
+      "has_synced": true,
+      "path": "select/30_Beijing_Taxi_Viagra_Boys.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Taxi",
+      "artist": "Bryan Ferry",
+      "has_synced": false,
+      "path": "select/31_Taxi_Bryan_Ferry.txt"
+    }
+  ]
+}
